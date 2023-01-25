@@ -1,4 +1,4 @@
-Code 1: Det up and Basic Skeleton
+Code 1: Get up and Basic Skeleton
 
 Target:
 Get the set-up right
@@ -15,15 +15,5 @@ Best Training Accuracy: 99.35
 Best Test Accuracy: 98.94
 
 Analysis:
-Model is over-fitting
-
-
-Get the basic skeleton right. We will try and avoid changing this skeleton as much as possible. 
-No fancy stuff
-Results:
-Parameters: 194k
-Best Train Accuracy: 99.35
-Best Test Accuracy: 99.02
-Analysis:
-The model is still large, but working. 
-We see some over-fitting
+Model is over-fitting.
+The model is large compared to given constraint ( 10k parameters)
