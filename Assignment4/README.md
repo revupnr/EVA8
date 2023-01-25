@@ -48,6 +48,7 @@ This model is converging faster than previous model
 There is still over fitting, add drop out for regularization
 
 Code 4 - Drop Out : https://github.com/revupnr/EVA8/blob/main/Assignment4/Code4_DropOut.ipynb
+
 Target: Added drop out after each layer to tackle the problem of overfitting
 
 Results: 
