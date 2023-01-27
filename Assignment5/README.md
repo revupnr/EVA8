@@ -1,6 +1,7 @@
 what is your code all about,
 
 model.py contains the models with three types of normalisations - GN,BN and LN
+Assignment5_Notebook.ipynb trains the model with GN,BN+L1 Regularisation and LN.
 
 
 
