@@ -1,5 +1,7 @@
 what is your code all about,
+
 model.py contains the models with three types of normalisations - GN,BN and LN
+
 
 
 how to perform the 3 normalizations techniques that we covered(cannot use values from the excel sheet shared)
@@ -23,8 +25,8 @@ Normalisation techniques help network converge faster and also prevent overfitti
 BN converged first (Green Curve)
 Then GN, (Orange curve)
 Then LN (Blue Curve)
-
 Finally after few epochs, all these converged to a similar loss.
+
 
 add all your graphs
 
