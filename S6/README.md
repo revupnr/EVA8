@@ -14,7 +14,11 @@ self.convblock4 = nn.Sequential(
         ) 
         
         
-used GAP
+# use GAP
+#OUTPUT BLOCK
+self.gap = nn.Sequential(
+nn.AvgPool2d(kernel_size=8)
+) # output_size = 1
 
 # use albumentation library and apply:
 import albumentations as A
